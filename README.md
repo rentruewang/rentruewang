@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
+## ❗ If you're interested in my work, aside from this account, also visit [@churenwang](https://github.com/churenwang) where most of my school projects reside.
+
 **rentruewang/rentruewang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rentruewang)](https://github.com/rentruewang/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
