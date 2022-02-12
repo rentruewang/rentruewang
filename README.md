@@ -1,6 +1,6 @@
-# Hi this is RenChu's profile page 👋
+# 👋 Hi, this is RenChu's profile page
 
-## ❗ If you're interested in my work, aside from this account, also visit [@churenwang](https://github.com/churenwang) where most of my school projects reside.
+## ❗ Interested in my work? Aside from this account, also visit my school / work account [@churenwang](https://github.com/churenwang).
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rentruewang&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rentruewang&theme=default)
