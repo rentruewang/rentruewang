@@ -1,4 +1,4 @@
-# 👋 Hi, this is RenChu's profile page
+# 👋 You've reached the GitHub profile of RenChu!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rentruewang&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rentruewang&theme=default)
