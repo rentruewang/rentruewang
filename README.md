@@ -7,3 +7,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rentruewang&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rentruewang&theme=default)
+
+### The languages I love and write:
+
+1. Python
+2. Go
+3. Modern C++
+4. TypeScript
+
+For more info, see **[snippets](https://github.com/rentruewang/snippets)** repository.
