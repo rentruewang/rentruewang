@@ -13,6 +13,6 @@
 1. Python
 2. Go
 3. Modern C++
-4. TypeScript
+4. Dart
 
 For more info, see **[snippets](https://github.com/rentruewang/snippets)** repository.
